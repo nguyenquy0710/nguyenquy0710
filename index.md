@@ -5,8 +5,8 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-# layout: home
-layout: page
+layout: home
+# layout: page
 title: Hello everybody 👋, I'm Nguyễn Quý
 # permalink: /about/
 ---
