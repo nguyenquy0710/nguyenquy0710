@@ -3,7 +3,7 @@
 <!-- ![Nguyen Quy's github stats](https://github-readme-stats.vercel.app/api?username=nguyenquy0710&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=00aa55) -->
 
 <a href="https://github.com/nguyenquy0710/github-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=nguyenquy0710&include_all_commits=true&count_private=true&show_icons=true&line_height=27&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=00aa55" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenquy0710&include_all_commits=true&count_private=true&show_icons=true&line_height=27&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=00aa55" />
 </a>
 
 [![twitter follow](https://img.shields.io/badge/twitter-follow-blue?logo=twitter&style=for-the-badge)](https://twitter.com/nhquydev)
@@ -13,18 +13,3 @@
 <a target="_blank" href="https://hub.docker.com/r/nguyenquy0710/nguyenquy0710"><img src="https://img.shields.io/docker/v/nguyenquy0710/nguyenquy0710/latest?label=docker%20image%20ver." /></a>
 <a target="_blank" href="https://github.com/nguyenquy0710/nguyenquy0710"><img src="https://img.shields.io/github/last-commit/nguyenquy0710/nguyenquy0710" /></a>
 <a target="_blank" href="https://opencollective.com/uptime-kuma"><img src="https://opencollective.com/uptime-kuma/total/badge.svg?label=Open%20Collective%20Backers&color=brightgreen" /></a>
-
-<!--
-**nguyenquy0710/nguyenquy0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
