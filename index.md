@@ -32,7 +32,7 @@ title: Hello everybody 👋, I'm Nguyễn Quý
 </p>
 
 <p align="center" style="margin-bottom: 20px">
-	<img src="https://github-readme-stats.vercel.app/api?username=nguyenquy0710&show_icons=true&theme=radical"></img>
+	<img src="https://github-readme-stats.vercel.app/api?username=nguyenquy0710&show_icons=true&theme=radical"/>
 </p>
 <p align="center" style="margin-bottom: 10px">
 	<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" />
@@ -40,8 +40,8 @@ title: Hello everybody 👋, I'm Nguyễn Quý
 	<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100" />
 </p>
 <p align="center" style="margin-bottom: 20px">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenquy0710&repo=gitbook.dotnet-basic"></img>
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenquy0710&repo=gitbook.sql-basic"></img>
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenquy0710&repo=gitbook.dotnet-basic"/>
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenquy0710&repo=gitbook.sql-basic"/>
 </p>
 
 ---
