@@ -84,6 +84,18 @@ layout: home
 	</a>
 </p>
 
+<!-- ----------------- -->
+
+<p align="center">
+	<h2 align="center">Repobeats analytics image <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+</p>
+
+<p align="center" style="margin-bottom: 20px">
+	<a href="https://repobeats.axiom.co/api/embed/8a7d5d845542eacaa9fbbe750e3647740ad1e5fe.svg">
+		<img src="https://repobeats.axiom.co/api/embed/8a7d5d845542eacaa9fbbe750e3647740ad1e5fe.svg" alt="Repobeats analytics image" />
+	</a>
+</p>
+
 ---
 
 [jekyll-organization]: https://github.com/jekyll
