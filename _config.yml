@@ -1,6 +1,7 @@
-title: Your awesome title
+# https://sevic.dev/github-pages-hosting-deployment/
+title: GitHub nguyenquy0710
 author:
-  name: GitHub User
+  name: GitHub nguyenquy0710
   email: your-email@domain.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
@@ -54,3 +55,5 @@ minima:
 # Set to `true` to show excerpts on the homepage.
 #
 # show_excerpts: false
+permissions:
+  contents: write
