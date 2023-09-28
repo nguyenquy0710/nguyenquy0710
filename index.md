@@ -1,15 +1,3 @@
----
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-# layout: home
-layout: page
-title: Hello everybody 👋, I'm Nguyễn Quý
----
-
 # About me
 
 <p align="center" style="margin-bottom: 20px">
@@ -84,8 +72,3 @@ title: Hello everybody 👋, I'm Nguyễn Quý
 		<img src="https://repobeats.axiom.co/api/embed/8a7d5d845542eacaa9fbbe750e3647740ad1e5fe.svg"/>
 	</a>
 </p>
-
-
----
-
-[jekyll-organization]: https://github.com/jekyll
