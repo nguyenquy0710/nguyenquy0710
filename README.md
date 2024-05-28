@@ -8,6 +8,7 @@
 
 - Name: Nguyễn Quý
 - My blog: [dev.to/nguyenquy0710](https://dev.to/nguyenquy0710)
+- Google Developer Program: [g.dev/nguyenquy](https://g.dev/nguyenquy)
 - Email: [nguyenquy.1096@gmail.com](mailto:nguyenquy.1096@gmail.com)
 - Software engineer | DevOps | Dotnet
 
